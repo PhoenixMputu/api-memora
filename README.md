@@ -89,5 +89,3 @@ Renvoie un rapport détaillé des passages suspects.
 ## License
 
 MIT
-
-J'espère que cet exemple de readme donnera une bonne idée des fonctionnalités de l'API ! N'hésite pas à me contacter si tu as d'autres questions.
