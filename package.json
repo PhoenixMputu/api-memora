@@ -4,7 +4,9 @@
   "description": "Api d'une plateforme permettant de rechercher des documents académiques tels que des articles, livres, thèses, etc. Elle permet également de tester si un document contient des passages plagiés",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix"
   },
   "repository": {
     "type": "git",
