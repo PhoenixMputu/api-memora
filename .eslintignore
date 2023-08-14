@@ -1,0 +1,7 @@
+/root/src/*.js
+/node_modules
+.env
+.gitignore
+!.build
+.build/*
+!.build/test.js
