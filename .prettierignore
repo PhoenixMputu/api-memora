@@ -9,3 +9,6 @@ coverage
 **/.svn
 **/.hg
 **/node_modules
+
+.env.exemple
+.eslintintrc.json
