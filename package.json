@@ -1,0 +1,26 @@
+{
+  "name": "api-memorama",
+  "version": "1.0.0",
+  "description": "Api d'une plateforme permettant de rechercher des documents académiques tels que des articles, livres, thèses, etc. Elle permet également de tester si un document contient des passages plagiés",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoenixMputu/api-memora.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "expressjs",
+    "passportjs",
+    "backend"
+  ],
+  "author": "Victory Deo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhoenixMputu/api-memora/issues"
+  },
+  "homepage": "https://github.com/PhoenixMputu/api-memora#readme"
+}
