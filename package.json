@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/PhoenixMputu/api-memora/issues"
   },
-  "homepage": "https://github.com/PhoenixMputu/api-memora#readme"
+  "homepage": "https://github.com/PhoenixMputu/api-memora#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
